@@ -1,0 +1,6 @@
+## compilar archivo go
+go build main.go
+## ejecutar
+./main
+## ejecutar sin compilar
+go run main.go
